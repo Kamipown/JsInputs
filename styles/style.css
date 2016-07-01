@@ -1,8 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:400");
 
 * { box-sizing: border-box; margin: 0px; padding: 0px; outline: none;}
-html {}
-body { font-size: 0px; font-family: "Roboto";}
+html { height: 100%;}
+body { height: 100%; background-color: #eee; font-size: 0px; font-family: "Roboto";}
 input { font-family: "Roboto";}
 h1, h2, h3, h4, h5, h6 { font-weight: 400;}
 a { text-decoration: none;}
+
+#main { display: block; box-sizing: border-box; max-width: 800px; height: 100%; margin: auto; padding: 10px; background-color: #fafafa; overflow: auto;}
