@@ -4,9 +4,7 @@
 html { height: 100%;}
 body { height: 100%; background-color: #eee; font-size: 0px; font-family: "Roboto";}
 input { font-family: "Roboto";}
-h1, h2, h3, h4, h5, h6 { font-weight: 400;}
-a { text-decoration: none;}
 
 #main { display: block; max-width: 800px; height: 100%; margin: auto; padding: 10px; background-color: #fafafa; overflow: auto;}
-	#code { display: block; width: 100%; min-height: 200px; padding: 10px; border: 1px solid #111; background-color: #222; color: #fff;}
-	#btn { display: block; width: 20%; height: 40px; margin-top: 10px; border: 1px solid #ccc; background-color: #ddd; color: #333; cursor: pointer;}
+	#code { display: block; width: 100%; min-height: 200px; padding: 10px; border: 1px solid #111; background-color: #222; font-size: 14px; color: #fff;}
+	#btn { display: block; width: 20%; height: 40px; margin-top: 10px; border: 1px solid #ccc; background-color: #ddd; font-size: 14px; color: #333; cursor: pointer;}
